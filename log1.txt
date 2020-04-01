@@ -1,0 +1,7718 @@
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+(v is of IntType;(v=2;print(v)))
+SymTable:
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v is of IntType
+(v=2;print(v))
+SymTable:
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+(v=2;print(v))
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+v=2
+print(v)
+SymTable:
+v=0
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+print(v)
+SymTable:
+v=2
+Out:
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+v=2
+Out:
+2
+FileTable:
+Heap:
+
+Id of program state: 0
+ExeStack:
+((((v is of RefType;v=20);(a is of RefType;a=v));print(v));print(a+5))
+SymTable:
+Out:
+FileTable:
+Heap:
+BarTable:
+
+Id of program state: 0
+ExeStack:
+(((v is of RefType;v=20);(a is of RefType;a=v));print(v))
+print(a+5)
+SymTable:
+Out:
+FileTable:
+Heap:
+BarTable:
+
+Id of program state: 0
+ExeStack:
+((((v is of RefType;v=20);(a is of RefType;a=v));print(v));print(a+5))
+SymTable:
+Out:
+FileTable:
+Heap:
+BarTable:
+
+Id of program state: 0
+ExeStack:
+(((v is of RefType;v=20);(a is of RefType;a=v));print(v))
+print(a+5)
+SymTable:
+Out:
+FileTable:
+Heap:
+BarTable:
+
+Id of program state: 0
+ExeStack:
+((((v is of RefType;v=20);(a is of RefType;a=v));print(v));print(a+5))
+SymTable:
+Out:
+FileTable:
+Heap:
+BarTable:
+
+Id of program state: 0
+ExeStack:
+(((v is of RefType;v=20);(a is of RefType;a=v));print(v))
+print(a+5)
+SymTable:
+Out:
+FileTable:
+Heap:
+BarTable:
+
+Id of program state: 0
+ExeStack:
+((((v is of RefType;v=20);(a is of RefType;a=v));print(v));print(a+5))
+SymTable:
+Out:
+FileTable:
+Heap:
+BarTable:
+
+Id of program state: 0
+ExeStack:
+(((v is of RefType;v=20);(a is of RefType;a=v));print(v))
+print(a+5)
+SymTable:
+Out:
+FileTable:
+Heap:
+BarTable:
+
+Id of program state: 0
+ExeStack:
+((((v is of RefType;v=20);(a is of RefType;a=v));print(v));print(a+5))
+SymTable:
+Out:
+FileTable:
+Heap:
+BarTable:
+
+Id of program state: 0
+ExeStack:
+(((v is of RefType;v=20);(a is of RefType;a=v));print(v))
+print(a+5)
+SymTable:
+Out:
+FileTable:
+Heap:
+BarTable:
+
+Id of program state: 0
+ExeStack:
+((((v is of RefType;v=20);(a is of RefType;a=v));print(v));print(a+5))
+SymTable:
+Out:
+FileTable:
+Heap:
+BarTable:
+
+Id of program state: 0
+ExeStack:
+(((v is of RefType;v=20);(a is of RefType;a=v));print(v))
+print(a+5)
+SymTable:
+Out:
+FileTable:
+Heap:
+BarTable:
+
+Id of program state: 0
+ExeStack:
+(((v is of RefType;v=20);(a is of RefType;a=v));print(v))
+print(a+5)
+SymTable:
+Out:
+FileTable:
+Heap:
+BarTable:
+
+Id of program state: 0
+ExeStack:
+((v is of RefType;v=20);(a is of RefType;a=v))
+print(v)
+print(a+5)
+SymTable:
+Out:
+FileTable:
+Heap:
+BarTable:
+
+Id of program state: 0
+ExeStack:
+((v is of RefType;v=20);(a is of RefType;a=v))
+print(v)
+print(a+5)
+SymTable:
+Out:
+FileTable:
+Heap:
+BarTable:
+
+Id of program state: 0
+ExeStack:
+(v is of RefType;v=20)
+(a is of RefType;a=v)
+print(v)
+print(a+5)
+SymTable:
+Out:
+FileTable:
+Heap:
+BarTable:
+
+Id of program state: 0
+ExeStack:
+(v is of RefType;v=20)
+(a is of RefType;a=v)
+print(v)
+print(a+5)
+SymTable:
+Out:
+FileTable:
+Heap:
+BarTable:
+
+Id of program state: 0
+ExeStack:
+v is of RefType
+v=20
+(a is of RefType;a=v)
+print(v)
+print(a+5)
+SymTable:
+Out:
+FileTable:
+Heap:
+BarTable:
+
+Id of program state: 0
+ExeStack:
+v is of RefType
+v=20
+(a is of RefType;a=v)
+print(v)
+print(a+5)
+SymTable:
+Out:
+FileTable:
+Heap:
+BarTable:
+
+Id of program state: 0
+ExeStack:
+v=20
+(a is of RefType;a=v)
+print(v)
+print(a+5)
+SymTable:
+v=(1,int)
+Out:
+FileTable:
+Heap:
+BarTable:
+
+Id of program state: 0
+ExeStack:
+v=20
+(a is of RefType;a=v)
+print(v)
+print(a+5)
+SymTable:
+v=(1,int)
+Out:
+FileTable:
+Heap:
+BarTable:
+
+Id of program state: 0
+ExeStack:
+(a is of RefType;a=v)
+print(v)
+print(a+5)
+SymTable:
+v=(1,int)
+Out:
+FileTable:
+Heap:
+1->20
+BarTable:
+
+Id of program state: 0
+ExeStack:
+(a is of RefType;a=v)
+print(v)
+print(a+5)
+SymTable:
+v=(1,int)
+Out:
+FileTable:
+Heap:
+1->20
+BarTable:
+
+Id of program state: 0
+ExeStack:
+a is of RefType
+a=v
+print(v)
+print(a+5)
+SymTable:
+v=(1,int)
+Out:
+FileTable:
+Heap:
+1->20
+BarTable:
+
+Id of program state: 0
+ExeStack:
+a is of RefType
+a=v
+print(v)
+print(a+5)
+SymTable:
+v=(1,int)
+Out:
+FileTable:
+Heap:
+1->20
+BarTable:
+
+Id of program state: 0
+ExeStack:
+a=v
+print(v)
+print(a+5)
+SymTable:
+a=(1,Ref(int))
+v=(1,int)
+Out:
+FileTable:
+Heap:
+1->20
+BarTable:
+
+Id of program state: 0
+ExeStack:
+a=v
+print(v)
+print(a+5)
+SymTable:
+a=(1,Ref(int))
+v=(1,int)
+Out:
+FileTable:
+Heap:
+1->20
+BarTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+print(a+5)
+SymTable:
+a=(2,Ref(int))
+v=(1,int)
+Out:
+FileTable:
+Heap:
+1->20
+2->(1,int)
+BarTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+print(a+5)
+SymTable:
+a=(2,Ref(int))
+v=(1,int)
+Out:
+FileTable:
+Heap:
+1->20
+2->(1,int)
+BarTable:
+
+Id of program state: 0
+ExeStack:
+print(a+5)
+SymTable:
+a=(2,Ref(int))
+v=(1,int)
+Out:
+20
+FileTable:
+Heap:
+1->20
+2->(1,int)
+BarTable:
+
+Id of program state: 0
+ExeStack:
+print(a+5)
+SymTable:
+a=(2,Ref(int))
+v=(1,int)
+Out:
+20
+FileTable:
+Heap:
+1->20
+2->(1,int)
+BarTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+a=(2,Ref(int))
+v=(1,int)
+Out:
+20
+25
+FileTable:
+Heap:
+1->20
+2->(1,int)
+BarTable:
+
+Id of program state: 0
+ExeStack:
+((((v is of RefType;v=20);(a is of RefType;a=v));print(v));print(a+5))
+SymTable:
+Out:
+FileTable:
+Heap:
+BarTable:
+
+Id of program state: 0
+ExeStack:
+(((v is of RefType;v=20);(a is of RefType;a=v));print(v))
+print(a+5)
+SymTable:
+Out:
+FileTable:
+Heap:
+BarTable:
+
+Id of program state: 0
+ExeStack:
+(((v is of RefType;v=20);(a is of RefType;a=v));print(v))
+print(a+5)
+SymTable:
+Out:
+FileTable:
+Heap:
+BarTable:
+
+Id of program state: 0
+ExeStack:
+((v is of RefType;v=20);(a is of RefType;a=v))
+print(v)
+print(a+5)
+SymTable:
+Out:
+FileTable:
+Heap:
+BarTable:
+
+Id of program state: 0
+ExeStack:
+((v is of RefType;v=20);(a is of RefType;a=v))
+print(v)
+print(a+5)
+SymTable:
+Out:
+FileTable:
+Heap:
+BarTable:
+
+Id of program state: 0
+ExeStack:
+(v is of RefType;v=20)
+(a is of RefType;a=v)
+print(v)
+print(a+5)
+SymTable:
+Out:
+FileTable:
+Heap:
+BarTable:
+
+Id of program state: 0
+ExeStack:
+(v is of RefType;v=20)
+(a is of RefType;a=v)
+print(v)
+print(a+5)
+SymTable:
+Out:
+FileTable:
+Heap:
+BarTable:
+
+Id of program state: 0
+ExeStack:
+v is of RefType
+v=20
+(a is of RefType;a=v)
+print(v)
+print(a+5)
+SymTable:
+Out:
+FileTable:
+Heap:
+BarTable:
+
+Id of program state: 0
+ExeStack:
+v is of RefType
+v=20
+(a is of RefType;a=v)
+print(v)
+print(a+5)
+SymTable:
+Out:
+FileTable:
+Heap:
+BarTable:
+
+Id of program state: 0
+ExeStack:
+v=20
+(a is of RefType;a=v)
+print(v)
+print(a+5)
+SymTable:
+v=(1,int)
+Out:
+FileTable:
+Heap:
+BarTable:
+
+Id of program state: 0
+ExeStack:
+v=20
+(a is of RefType;a=v)
+print(v)
+print(a+5)
+SymTable:
+v=(1,int)
+Out:
+FileTable:
+Heap:
+BarTable:
+
+Id of program state: 0
+ExeStack:
+(a is of RefType;a=v)
+print(v)
+print(a+5)
+SymTable:
+v=(1,int)
+Out:
+FileTable:
+Heap:
+1->20
+BarTable:
+
+Id of program state: 0
+ExeStack:
+(a is of RefType;a=v)
+print(v)
+print(a+5)
+SymTable:
+v=(1,int)
+Out:
+FileTable:
+Heap:
+1->20
+BarTable:
+
+Id of program state: 0
+ExeStack:
+a is of RefType
+a=v
+print(v)
+print(a+5)
+SymTable:
+v=(1,int)
+Out:
+FileTable:
+Heap:
+1->20
+BarTable:
+
+Id of program state: 0
+ExeStack:
+a is of RefType
+a=v
+print(v)
+print(a+5)
+SymTable:
+v=(1,int)
+Out:
+FileTable:
+Heap:
+1->20
+BarTable:
+
+Id of program state: 0
+ExeStack:
+a=v
+print(v)
+print(a+5)
+SymTable:
+a=(1,Ref(int))
+v=(1,int)
+Out:
+FileTable:
+Heap:
+1->20
+BarTable:
+
+Id of program state: 0
+ExeStack:
+a=v
+print(v)
+print(a+5)
+SymTable:
+a=(1,Ref(int))
+v=(1,int)
+Out:
+FileTable:
+Heap:
+1->20
+BarTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+print(a+5)
+SymTable:
+a=(2,Ref(int))
+v=(1,int)
+Out:
+FileTable:
+Heap:
+1->20
+2->(1,int)
+BarTable:
+
+Id of program state: 0
+ExeStack:
+print(v)
+print(a+5)
+SymTable:
+a=(2,Ref(int))
+v=(1,int)
+Out:
+FileTable:
+Heap:
+1->20
+2->(1,int)
+BarTable:
+
+Id of program state: 0
+ExeStack:
+print(a+5)
+SymTable:
+a=(2,Ref(int))
+v=(1,int)
+Out:
+20
+FileTable:
+Heap:
+1->20
+2->(1,int)
+BarTable:
+
+Id of program state: 0
+ExeStack:
+print(a+5)
+SymTable:
+a=(2,Ref(int))
+v=(1,int)
+Out:
+20
+FileTable:
+Heap:
+1->20
+2->(1,int)
+BarTable:
+
+Id of program state: 0
+ExeStack:
+SymTable:
+a=(2,Ref(int))
+v=(1,int)
+Out:
+20
+25
+FileTable:
+Heap:
+1->20
+2->(1,int)
+BarTable:
+
